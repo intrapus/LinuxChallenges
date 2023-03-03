@@ -3,3 +3,4 @@ Henüz alınmamış, 5 harfli .com ile biten domainleri (wwogh.com gibi) bulan b
 - Rastgele domainler denemeli,
 - whois komutu dışında, native linux komutlarından oluşmalı
 - Toplam karakter sayısı 130'u geçmemeli
+- Bulduğu domainleri bir dosyaya yazdırmalı
